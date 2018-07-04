@@ -1,0 +1,6 @@
+@import "css/theme/night.css";
+
+
+.reveal section img.plain {
+  background: none;
+}
