@@ -16,7 +16,7 @@ Esta apresentação tenta ser um bom ponto de partida para quem planeia começar
 
 A framework de apresentações reveal.js é usado como um submódulo, então o projeto deve ser clonado com a opção ```--recurse-submodules```
 
-     git clone --recurse-submodules git@github.com:jfig/git-demystified-presentation.git
+     git clone --recurse-submodules https://github.com/jfig/git-demystified-presentation.git
 
 Depois disso, basta abrir o ficheiro ```index.html``` no seu  web browser favorito.
 
@@ -31,7 +31,7 @@ This presentation tries to be starting point to those planning to learn Git, it 
 
 The presentation framework reveal.js is used as a submodule, so the project must be cloned to with ``` --recurse-submodules```
 
-    git clone --recurse-submodules git@github.com:jfig/git-demystified-presentation.git
+    git clone --recurse-submodules https://github.com/jfig/git-demystified-presentation.git
 
 After this just open the ```index.html``` file in your favorite web browser.
 
